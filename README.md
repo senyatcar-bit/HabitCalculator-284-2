@@ -7,7 +7,7 @@
 1. Сделайте Fork этого репозитория (кнопка Fork справа вверху).
 2. Склонируйте свой форк: `git clone https://github.com/ВАШ_ЛОГИН/HabitCalculator-XXX-X.git`
 3. Добавьте upstream: `git remote add upstream https://github.com/Ta-gh/HabitCalculator-XXX-X.git`
-4. Создайте ветку по номеру вашего ПК (см. таблицу ниже).
+4. Создайте ветку по номеру вашего ПК.
 5. Реализуйте свою функцию в `Program.cs`.
 6. Сделайте коммит и пуш в свой форк.
 7. Создайте Pull Request в главный репозиторий группы.
